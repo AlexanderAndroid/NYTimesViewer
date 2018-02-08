@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NYTimesViewer</string>
+    <string name="title_activity_main">NYTimesViewer</string>
+    <string name="tab_text_1">most emailed</string>
+    <string name="tab_text_2">most shared</string>
+    <string name="tab_text_3">most viewed</string>
+    <string name="action_settings">Settings</string>
+</resources>
