@@ -5,4 +5,9 @@
     <string name="tab_text_2">most shared</string>
     <string name="tab_text_3">most viewed</string>
     <string name="action_settings">Settings</string>
+
+    <string name="title_activity_detail">PagerActivity</string>
+    <string name="downloaded_articles">saved</string>
+    <string name="btn_add">add</string>
+    <string name="delete">delete</string>
 </resources>
